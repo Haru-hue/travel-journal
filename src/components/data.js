@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         id: 1,
         imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Downtown_Calgary_2020-3.jpg/1200px-Downtown_Calgary_2020-3.jpg",
@@ -54,3 +54,5 @@ export default [
         description: "Helsinki, Finland’s southern capital, sits on a peninsula in the Gulf of Finland. Its central avenue, Mannerheimintie, is flanked by institutions including the National Museum, tracing Finnish history from the Stone Age to the present."
     }
 ]
+
+export default data
